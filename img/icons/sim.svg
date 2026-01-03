@@ -1,0 +1,15 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Основной контур карты и рамка (белый) -->
+  <path fill-rule="evenodd" clip-rule="evenodd" 
+    d="M6.828 4H23v11a5 5 0 0 1-5 5H1V9.828a2 2 0 0 1 .586-1.414l3.828-3.828A2 2 0 0 1 6.828 4ZM17 8a2 2 0 0 1 2 2v6h-8a2 2 0 0 1-2-2V8h8Z" 
+    fill="white"/>
+  
+  <!-- Внутренняя область (белый с прозрачностью 0.25 для создания эффекта глубины) -->
+  <path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" 
+    d="M17 8a2 2 0 0 1 2 2v6h-8a2 2 0 0 1-2-2v-1h7a2 2 0 0 0-2-2H9V8h8Z" 
+    fill="white"/>
+  
+  <!-- Акцентная полоса/чип (белый) -->
+  <path d="M16 13a2 2 0 0 0-2-2H9v2h7Z" 
+    fill="white"/>
+</svg>
