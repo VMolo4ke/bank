@@ -1,0 +1,1 @@
+import{_ as n,x as o,y as s,O as _}from"./CXVeMtDD.js";const c={},t={class:"block"};function a(e,r){return s(),o("div",t,[_(e.$slots,"default",{},void 0)])}const f=Object.assign(n(c,[["render",a],["__scopeId","data-v-1ff222b8"]]),{__name:"Block"});export{f as _};
